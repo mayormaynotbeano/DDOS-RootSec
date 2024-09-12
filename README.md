@@ -1,16 +1,4 @@
-<p align="center">
-  <a href="https://anonvm.wtf/">
-    <img src="https://i.imgur.com/WIuFSG6.gif" alt="AnonVM">
-  </a>
-</p>
 
-# RootSec Archive
-
-<p align="center">
-  <a href="https://t.me/realsecgroup">
-    <img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png" alt="Join our Telegram group">
-  </a>
-</p>
 
 ## Overview of RootSec Archive
 
